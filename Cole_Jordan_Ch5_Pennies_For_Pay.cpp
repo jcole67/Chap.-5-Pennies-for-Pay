@@ -44,6 +44,6 @@ int main()
     cout << "--------------------------" << endl;
     cout << "Total " << setw(8) << "$" << total << endl;
 
-    return 0;
     system("pause");
+    return 0;
 }
